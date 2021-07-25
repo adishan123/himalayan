@@ -1,0 +1,47 @@
+.costumer{
+    h2{
+        color: #4A302C;
+        text-transform: uppercase;
+        font-size: 45px;
+    }
+    .container{
+        .owl-carousel{
+        .bottom{
+            position: relative;
+            margin-top: 28px;
+            top: 62px;
+            left: 516px;
+            width: 78px;
+            border: 3px solid #E68100;
+        }
+        h2{
+            color: #4A302C;
+        }
+        .slider-box{
+            padding: 20px 15px;
+            margin: 0px 20px;
+            align-items: center;
+            border: 3px solid #4A302C;
+            position: relative;
+            .up{
+                color: #4A302C;
+                position: absolute;
+                top: -20px;
+                display: inline;
+                background: #fff;
+                font-size: 28px;
+                z-index: 99;
+            }
+            p{
+                font-size: 18px;
+            }
+            img{
+                border-radius: 50%;
+                margin: 20px 0px;
+                margin: auto;
+                width: 45px;
+            }
+        }
+    }
+    }
+}
